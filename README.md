@@ -537,5 +537,3 @@ LanYun
 ---
 
 _本项目模板由 LanYun 开发和维护。_
-#   n o d e j s - s e r v e r - t e m p l a t e  
- 
